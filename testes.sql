@@ -10,6 +10,6 @@ AS select * from testtable;
 CREATE OR REPLACE VIEW public.testview
 AS select * from testtable where id = 1;
 
-drop view public.testview
+drop view public.testview;
 
 DROP TABLE testtable;
