@@ -25,9 +25,6 @@ Execute os testes do arquivo
 
 Após todos os testes serem executados com sucesso, verifique a tabela ddl_historico.
 
-
-
-
-
+##
 
 *fonte: https://www.enterprisedb.com/postgres-tutorials/how-use-event-triggers-postgresql em 02/09/2020
